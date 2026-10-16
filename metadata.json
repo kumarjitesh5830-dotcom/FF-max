@@ -1,0 +1,6 @@
+{
+  "name": "FreeFire 3D: Battle Royale",
+  "description": "An action-packed 3D third-person tactical shooter featuring procedural humanoid combatants, real headshot hitbox detection, tactical enemy AI, battlefield cover, and full mobile touch and desktop controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
